@@ -1,0 +1,7 @@
+@mixin typography ($font-weight:normal, $font-size: 1rem) {
+    font: {
+        weight: $font-weight;
+        size: $font-size;
+    };
+}
+
